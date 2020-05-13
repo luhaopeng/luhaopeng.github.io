@@ -20,5 +20,14 @@
       <description>Hugo is a static site engine written in Go. It makes use of a variety of open source projects including: Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description>
     </item>
     
+    <item>
+      <title>My First Post</title>
+      <link>https://luhaopeng.github.io/post/my-first-post/</link>
+      <pubDate>Tue, 12 May 2020 09:58:20 +0800</pubDate>
+      
+      <guid>https://luhaopeng.github.io/post/my-first-post/</guid>
+      <description>This is first post of mine.</description>
+    </item>
+    
   </channel>
 </rss>
