@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://luhaopeng.github.io/about/</loc>
+    <lastmod>2020-05-12T17:57:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://luhaopeng.github.io/</loc>
+    <lastmod>2020-05-12T17:57:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://luhaopeng.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9,12 +23,6 @@
   
   <url>
     <loc>https://luhaopeng.github.io/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://luhaopeng.github.io/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
